@@ -90,7 +90,6 @@ Estudante de Ciência da Computação construindo, na prática, o caminho até *
 ![Azure Cloud](https://progress-bar.dev/40/?title=Azure%20Cloud&color=8B5CF6&width=250)
 ![C%23](https://progress-bar.dev/50/?title=C%23&color=00FF9C&width=250)
 
-> *(valores como referência — ajuste conforme sua própria autoavaliação)*
 
 **Próximos módulos a ativar**
 
