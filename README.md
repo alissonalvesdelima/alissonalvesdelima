@@ -19,26 +19,43 @@
 ════════════════════════════════════════════════════════════
 ```
 
-<div align="center">↓</div>
+```
+════════════════════════════════════════════════════════════
+```
 
 ### `cybergrid@alisson:~$ whoami`
 
-Estudante de Ciência da Computação construindo, na prática, o caminho até **Cibersegurança** — passando por **Infraestrutura, Redes, NOC e SOC**. Atuo hoje na sustentação de sistemas ERP/PDV em produção, o que me deu uma base real de troubleshooting, análise de causa raiz e trabalho sob incidentes críticos. Curioso por natureza: gosto de entender o "porquê" por trás de cada falha, não só de resolvê-la.
+```
+Sou estudante de Ciência da Computação com interesse em Infraestrutura,
+Redes e Cibersegurança.
 
-<div align="center">↓</div>
+Atualmente atuo na sustentação de sistemas ERP/PDV em ambiente de
+produção, desenvolvendo experiência em troubleshooting, análise de
+incidentes, identificação de causa raiz e suporte a operações críticas.
+
+Acredito que entender como um sistema funciona é a melhor forma de
+protegê-lo. É essa curiosidade que direciona meus estudos e projetos,
+sempre buscando evoluir em Infraestrutura, Cloud e Segurança.
+```
+
+```
+════════════════════════════════════════════════════════════
+```
 
 ### `>> OPERATOR PROFILE`
 
-| | |
-|---|---|
-| **Operator** | Alisson Alves de Lima |
-| **Role** | Infrastructure & Cybersecurity |
-| **Current** | IT Intern @ Group Tactus |
-| **Level** | Student — CS @ UNIP (2024–2028) |
-| **Mission** | Build • Monitor • Protect |
-| **Status** | 🟢 Always Learning |
+```
+Operator ................ Alisson Alves de Lima
+Role ..................... Infrastructure | Networking | Cybersecurity
+Current Assignment ....... ERP/PDV Production Support
+Career Rank .............. Apprentice
+Mission .................. Build • Monitor • Protect
+Status ................... 🟢 Always Learning
+```
 
-<div align="center">↓</div>
+```
+════════════════════════════════════════════════════════════
+```
 
 ### `>> CURRENT STACK`
 
@@ -62,7 +79,9 @@ Estudante de Ciência da Computação construindo, na prática, o caminho até *
 🟡 Networking &nbsp;·&nbsp; 🟡 Azure &nbsp;·&nbsp; 🟡 Cybersecurity Fundamentals
 ⚪ Active Directory &nbsp;·&nbsp; ⚪ Docker &nbsp;·&nbsp; ⚪ Wireshark &nbsp;·&nbsp; ⚪ Nmap &nbsp;·&nbsp; ⚪ Microsoft Defender &nbsp;·&nbsp; ⚪ Microsoft Sentinel &nbsp;·&nbsp; ⚪ Entra ID &nbsp;·&nbsp; ⚪ Kubernetes &nbsp;·&nbsp; ⚪ Terraform &nbsp;·&nbsp; ⚪ Ansible
 
-<div align="center">↓</div>
+```
+════════════════════════════════════════════════════════════
+```
 
 ### `>> ACTIVE MODULES`
 
@@ -115,35 +134,94 @@ Suporte, troubleshooting e resolução de incidentes em sistemas ERP/PDV (200+ c
 
 <div align="center"><sub>> mais módulos em breve...</sub></div>
 
-<div align="center">↓</div>
+```
+════════════════════════════════════════════════════════════
+  >> OPERATIONS DASHBOARD
 
-### `>> MISSION ROADMAP`
+  Training Progress • Upcoming Modules • System Health
+  Repository Metrics • Contribution Activity
+════════════════════════════════════════════════════════════
+```
 
-![Cybersecurity Fundamentals](https://progress-bar.dev/50/?title=Cybersecurity%20Fundamentals&color=00FF9C&width=250)
-![Networking](https://progress-bar.dev/60/?title=Networking&color=00D9FF&width=250)
-![Linux](https://progress-bar.dev/65/?title=Linux&color=00FF9C&width=250)
-![Python](https://progress-bar.dev/70/?title=Python&color=00D9FF&width=250)
-![Azure Cloud](https://progress-bar.dev/40/?title=Azure%20Cloud&color=8B5CF6&width=250)
-
-**`>> NEXT MODULES`**
+### `>> TRAINING PROGRESS`
 
 ```
-□ Azure
-□ Active Directory
-□ Docker
+CORE MODULES
+
+🟢 Python......................................70%
+🟢 Linux.......................................65%
+🟡 Networking..................................60%
+🟡 Cybersecurity Fundamentals..................50%
+🟡 Azure........................................40%
+
+Operator self-assessment.
+```
+
+### `>> UPCOMING MODULES`
+
+```
+NETWORK
 □ Wireshark
 □ Nmap
+□ VLANs
+□ Routing
+
+WINDOWS
+□ Active Directory
+□ Entra ID
+□ Group Policy
+
+CLOUD
+□ Azure Administration
 □ Microsoft Defender
 □ Microsoft Sentinel
-□ Entra ID
+
+AUTOMATION
+□ Docker
 □ Kubernetes
 □ Terraform
 □ Ansible
 ```
 
-<div align="center">↓</div>
+### `>> MISSION TIMELINE`
+
+```
+2026
+✔ Networking Fundamentals
+✔ PowerShell
+◐ Azure
+◐ Linux
+○ SC-900
+○ Active Directory
+
+2027
+○ Microsoft Defender
+○ Microsoft Sentinel
+○ Docker
+○ Terraform
+
+2028
+○ Kubernetes
+○ Security+
+```
+
+```
+════════════════════════════════════════════════════════════
+```
 
 ### `>> SYSTEM METRICS`
+
+*Repository Activity • Contribution Statistics • Language Distribution • Commit History*
+
+```
+SYSTEM SUMMARY
+
+Repositories..........—
+Projects Online.......4
+Commits...............—
+Learning Modules......9
+Current Mission.......Infrastructure
+```
 
 <div align="center">
 
@@ -154,9 +232,24 @@ Suporte, troubleshooting e resolução de incidentes em sistemas ERP/PDV (200+ c
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=alissonalvesdelima&theme=react-dark&bg_color=07090D&color=00FF9C&line=00D9FF&point=ffffff&area=true&hide_border=true" width="90%" />
 
+<img src="https://github-profile-trophy.vercel.app/?username=alissonalvesdelima&theme=matrix&no-frame=true&margin-w=10&margin-h=10" width="90%" />
+
 </div>
 
-<div align="center">↓</div>
+```
+SYSTEM HEALTH
+
+Repositories........ONLINE
+Contributions.......ACTIVE
+Learning............IN PROGRESS
+Projects............RUNNING
+Career Growth.......STABLE
+System Status.......100%
+```
+
+```
+════════════════════════════════════════════════════════════
+```
 
 ### `>> COMMUNICATION CHANNELS`
 
@@ -168,7 +261,9 @@ Suporte, troubleshooting e resolução de incidentes em sistemas ERP/PDV (200+ c
 
 </div>
 
-<div align="center">↓</div>
+```
+════════════════════════════════════════════════════════════
+```
 
 <div align="center">
 
@@ -179,16 +274,6 @@ Session terminated...
 Thank you for visiting.
 See you soon.
 ```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:07090D&height=100&section=footer" width="100%"/>
-
-</div>
-
-</div>
-
-<div align="center">
-
-`cybergrid@alisson ~$ echo "Thanks for visiting. Let's build something amazing."` 🛰️
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:07090D&height=100&section=footer" width="100%"/>
 
