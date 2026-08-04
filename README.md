@@ -26,16 +26,14 @@
 ### `cybergrid@alisson:~$ whoami`
 
 ```
-Sou estudante de Ciência da Computação com interesse em Infraestrutura,
-Redes e Cibersegurança.
+Sou estudante de Ciência da Computação com foco em Segurança da Informação e interesse em Infraestrutura, Redes e operações de NOC/SOC.
 
-Atualmente atuo na sustentação de sistemas ERP/PDV em ambiente de
-produção, desenvolvendo experiência em troubleshooting, análise de
-incidentes, identificação de causa raiz e suporte a operações críticas.
+Atualmente atuo na sustentação de sistemas ERP/PDV em ambiente de produção, adquirindo experiência em troubleshooting, análise de incidentes, identificação de causa raiz e suporte a operações críticas.
 
-Acredito que entender como um sistema funciona é a melhor forma de
-protegê-lo. É essa curiosidade que direciona meus estudos e projetos,
-sempre buscando evoluir em Infraestrutura, Cloud e Segurança.
+Tenho direcionado meus estudos para Redes, Linux, Microsoft Azure, automação com Python e Cibersegurança, desenvolvendo projetos práticos para construir uma base sólida em Infraestrutura e preparar minha transição para operações de NOC, SOC e Segurança da Informação.
+
+Acredito que compreender profundamente sistemas, redes e infraestruturas é essencial para protegê-los. É essa mentalidade que direciona minha evolução, buscando desenvolver competências em monitoramento, resposta a incidentes, gestão de vulnerabilidades e defesa de ambientes corporativos.
+
 ```
 
 ```
